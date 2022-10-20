@@ -135,4 +135,5 @@
   <br>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameygoes&show_icons=true&locale=en&layout=compact" alt="ameygoes" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ameygoes&" alt="ameygoes" />
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)</p>
+   <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=ameygoes" alt="ameygoes" />
+
