@@ -37,7 +37,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
   <!-- Airflow -->
-  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353380%2Fairflow&psig=AOvVaw3ld-fnBFCPtUMSfxvmKupo&ust=1710441825656000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjL7rzy8YQDFQAAAAAdAAAAABAE" alt="Airflow" width="40" height="40"/> </a>
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="Airflow" width="40" height="40"/> </a>
   
 
 
