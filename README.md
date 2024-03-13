@@ -35,9 +35,10 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <!-- python -->
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
   <!-- Airflow -->
   <a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="Airflow" width="40" height="40"/> </a>
+  <!-- BigQuery -->
+  <a href="https://cloud.google.com/bigquery" target="_blank"> <img src="https://www.svgrepo.com/show/375551/bigquery.svg" alt="BigQuery" width="40" height="40"/> </a>
   
 
 
