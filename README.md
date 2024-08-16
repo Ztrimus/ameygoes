@@ -20,6 +20,6 @@
 
   - 📫 How to reach me **amey.bhilegaonkar@asu.edu**
 
-  - ⚡ Fun fact  ![](https://komarev.com/ghpvc/?username=ameygoes&style=for-the-badge)
+  - ⚡ Fun fact  ![](https://komarev.com/ghpvc/?username=Ztrimus&style=for-the-badge)
   
 
